@@ -1,5 +1,5 @@
 
-def #meal_choice(veg1, veg2, meat="meat") 
+def #meal_choice(veg1, veg2, protein="meat") 
   puts "A plate of #{meat} with #{veg1} and #{veg2}."
 end
   
